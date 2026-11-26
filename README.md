@@ -22,7 +22,7 @@
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Programación y automatización:** Python, C, Shell
 * **Datos y cloud:** Análisis de datos, Google Workspace, Cloud computing
-* **Diseño y herramientas:** Photoshop, CorelDRAW, Git & GitHub
+* **Diseño y herramientas:** Photoshop, Git & GitHub
 
 ---
 
@@ -73,18 +73,9 @@
 
 ---
 
-## 📂 Progreso actual
-
-* 📘 Maquetación y estructuras web semánticas con HTML5 y CSS3
-* 🧪 Formularios funcionales y validación básica
-* ⚡ Primeros proyectos con JavaScript (calculadora, interacción básica)
-* 🐍 Scripts sencillos de Python para automatizar tareas
-
----
-
 ## 📈 En qué estoy trabajando
 
-* Mejorar la lógica en JavaScript y escribir código más limpio y mantenible
+* Mejorar la lógica y escribir código más limpio y mantenible
 * Construir proyectos cada vez más completos
 * Cuidar el diseño visual, la accesibilidad y la estructura
 
