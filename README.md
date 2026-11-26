@@ -4,8 +4,6 @@
 
 📄 **[Ver mi CV](https://raquel-g-l.github.io/cv/)**
 
-📍 Málaga, España · [LinkedIn](https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/)
-
 ---
 
 ## 🚀 Sobre mí
@@ -30,7 +28,7 @@
 
 ## 🎓 Certificaciones
 
-> Todas las certificaciones están disponibles en mi [perfil de LinkedIn](https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/) y en mi CV. Se indica el ID de la credencial cuando dispone de uno.
+> Todas las certificaciones están disponibles en mi CV. Se indica el ID de la credencial cuando dispone de uno.
 
 ### 💻 Desarrollo web y programación
 
