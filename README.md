@@ -12,7 +12,7 @@
 * 🐍 Formación en **Google IT Automation with Python**, **Análisis de Datos** y automatización de tareas reales.
 * 🧩 Experiencia desde 2013 en atención al cliente, ventas, administración y digitalización documental.
 * 🎨 Interés principal: **diseño limpio, ordenado y funcional**.
-* 🤝 Comunicación clara sin jerga técnica, trabajo en equipo y rápida adaptación al cambio.
+* 🤝 Comunicación clara y directa, trabajo en equipo y rápida adaptación al cambio.
 * 🌱 Aprendiendo con práctica real (proyectos propios + freeCodeCamp).
 
 ---
