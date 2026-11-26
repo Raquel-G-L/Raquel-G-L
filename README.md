@@ -1,8 +1,10 @@
-# 👋 Hola, soy Raquel
+# Raquel García Lara
 
 💻 **Desarrolladora web frontend en formación**, con base sólida en HTML, CSS y JavaScript y formación en Python, automatización, datos y sistemas.
 
-📍 Málaga, España · [LinkedIn](https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/) · [Portfolio](https://raquel-g-l.github.io/mi-portfolio/)
+📄 **[Ver mi CV](https://raquel-g-l.github.io/cv/)**
+
+📍 Málaga, España · [LinkedIn](https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/)
 
 ---
 
@@ -98,7 +100,7 @@ Conseguir mi primera oportunidad laboral como desarrolladora frontend, construye
 
 * GitHub: https://github.com/Raquel-G-L
 * LinkedIn: https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/
-* Portfolio: https://raquel-g-l.github.io/mi-portfolio/
+* CV: https://raquel-g-l.github.io/cv/
 * Email: garcia.lara.raquel@gmail.com
 
 ---
