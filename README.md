@@ -28,11 +28,11 @@
 
 ## 📁 Proyectos destacados
 
-| Proyecto | Descripción | Estado |
+| Proyecto | Descripción | Enlace |
 | --- | --- | --- |
-| **[Tres Tintas](https://github.com/Raquel-G-L/tres-tintas)** | Web educativa para aprender chino, japonés y coreano (HSK, JLPT y TOPIK), con lecciones, pronunciación y preparación de exámenes. | 🚧 En construcción |
-| **[Diario de aprendizaje](https://github.com/Raquel-G-L/freecodecamp-journey)** | Ejercicios y proyectos completados durante mi aprendizaje en freeCodeCamp. | 🔄 En curso |
-| **[CV](https://github.com/Raquel-G-L/cv)** | Currículum web. | ✅ Publicado |
+| Tres Tintas | Web para aprender chino, japonés y coreano (HSK, JLPT y TOPIK) con lecciones, pronunciación y caligrafía. | [Ver web](https://raquel-g-l.github.io/tres-tintas/) · [Código](https://github.com/Raquel-G-L/tres-tintas) |
+| Diario de aprendizaje | Ejercicios y proyectos de freeCodeCamp. | [Ver repo](https://github.com/Raquel-G-L/freecodecamp-journey) |
+| CV | Currículum web. | [Ver CV](https://raquel-g-l.github.io/cv/) |
 
 ---
 
