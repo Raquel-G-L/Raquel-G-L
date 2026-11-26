@@ -97,6 +97,7 @@ Conseguir mi primera oportunidad laboral como desarrolladora frontend, construye
 ## 📫 Contacto
 
 * GitHub: https://github.com/Raquel-G-L
+* freeCodeCamp: https://www.freecodecamp.org/espanol/raquelgl
 * LinkedIn: https://www.linkedin.com/in/raquel-garc%C3%ADa-lara/
 * CV: https://raquel-g-l.github.io/cv/
 * Email: garcia.lara.raquel@gmail.com
