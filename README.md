@@ -22,7 +22,7 @@
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Programación y automatización:** Python, C, Shell
 * **Datos y cloud:** Análisis de datos, Google Workspace, Cloud computing
-* **Diseño y herramientas:** Photoshop, Git & GitHub
+* **Diseño y herramientas:** Photoshop, CorelDRAW, Git & GitHub
 
 ---
 
